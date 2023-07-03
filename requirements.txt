@@ -6,3 +6,4 @@ pandas
 matplotlib
 gunicorn
 flask
+flask_cors
