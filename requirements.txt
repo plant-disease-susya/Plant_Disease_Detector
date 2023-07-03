@@ -7,3 +7,5 @@ matplotlib
 gunicorn
 flask
 flask_cors
+pyfcm
+python-decouple
