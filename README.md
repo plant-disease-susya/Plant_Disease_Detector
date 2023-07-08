@@ -1,1 +1,3 @@
-# Plant_Disease_Detector
+# Agricare machine vision App
+The proposed project aims to develop a machine vision mobile app to detect early blight, tuta absoluta and fusarium wilt in tomato crops. The app will utilize machine leaning algorithms to analyze images of tomato leaves captured by the user’s smartphone and handheld HERO9 black 5K camera. The app will provide real-time results and recommendations for treating and preventing pests and diseases, enabling farmers to respond quickly and efficiently to tomato health issues. The project team will collect a dataset of images and utilize the YEESI lab dataset(https://www.yeesi.org/) of healthy and diseased tomato leaves to train the algorithms and develop an intuitive and easy-to-use app interface. The app is expected to reduce crop loss and improve yields, contributing to advancing modern machine vision technology in agriculture.
+## Keywords: Tomato, Mobile App, Machine Learning Model
